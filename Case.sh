@@ -16,6 +16,15 @@ do
 			;;
 	[nN][oO]    ) echo will NOT print the message
 		      valid=1 ;;
+	lol	    ) echo lmaooo
+		      valid=1
+			;;
+	arsal       ) echo mehran
+		      valid=1
+			;;
+	super       ) echo saiyan
+		      valid=1
+			;;
 	*	    ) echo Yes or No of some form please ;;
 	esac
 done 
